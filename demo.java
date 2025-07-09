@@ -5,6 +5,7 @@ public  class demo {
 
     void jeswin(){
         System.out.println("i am jeswin");
+    }
 
     void jovin(){
         System.out.println("i am Jovin");
